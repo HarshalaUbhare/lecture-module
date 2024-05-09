@@ -61,9 +61,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+### UI
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![image](https://github.com/HarshalaUbhare/lecture-module/assets/114348944/85b050db-faa1-4da1-9629-79895d2a1a70)
+
+![image](https://github.com/HarshalaUbhare/lecture-module/assets/114348944/23c046a0-d68d-4a5e-93cf-cc293303b1b5)
+
+![image](https://github.com/HarshalaUbhare/lecture-module/assets/114348944/39761d44-80d3-44cb-a137-1ff7272a3ce8)
+
+![image](https://github.com/HarshalaUbhare/lecture-module/assets/114348944/2e542964-5957-4494-a33e-e2f43a858450)
+
+
 
 ### `npm run build` fails to minify
 
